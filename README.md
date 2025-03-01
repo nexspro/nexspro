@@ -56,25 +56,45 @@
 
 ---
 
-## 📌 Projects
-Here are some of my recent projects:
-- 🎨 **[Profile Page](https://nexspro.github.io/profile/)** – Personal profile page built with HTML, CSS, and JavaScript.  
-- 🌍 **[Landing Page](https://nexspro.github.io/landing/)** – A responsive landing page with modern UI design.  
-- 🛠 **More projects coming soon!** Check out my [GitHub repositories](https://github.com/nexspro).
+## 🚀 Projects  
+<p align="center">
+  <a href="https://nexspro.github.io/profile/">
+    <img src="https://img.shields.io/badge/Profile Page-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Profile Page"/>
+  </a>
+  <a href="https://nexspro.github.io/landing/">
+    <img src="https://img.shields.io/badge/Landing Page-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Landing Page"/>
+  </a>
+  <a href="https://github.com/nexspro">
+    <img src="https://img.shields.io/badge/More Projects-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="More Projects"/>
+  </a>
+</p>
 
 ---
 
-## 🎯 What I’m currently working on
-🔹 Learning **full-stack web development** at Le Wagon  
-🔹 Contributing to **open-source projects** & engaging with tech communities  
-🔹 Building a **personal portfolio website**  
+## 🎯 What I'm Currently Working On  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nexspro&repo=profile&theme=radical" alt="Profile Page Repo"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nexspro&repo=landing&theme=radical" alt="Landing Page Repo"/>
+</p>
+
+- 📚 Learning **full-stack web development** at Le Wagon  
+- 🔥 Contributing to **open-source projects** & engaging with tech communities  
+- 🚀 Building a **personal portfolio website**  
 
 ---
 
-## 🌍 Let's Connect!
-💼 [LinkedIn](https://www.linkedin.com/in/nexspro/)  
-💻 [Portfolio (Coming Soon!)](#)  
-📫 **Reach me at:** nexspro@ik.me  
+## 🌍 Let's Connect!  
+<p align="center">
+  <a href="https://www.linkedin.com/in/nexspro/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nexspro@ik.me">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/nexspro">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 💡 *Always open to collaboration and tech discussions! Feel free to connect 🚀*
 
