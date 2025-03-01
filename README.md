@@ -1,8 +1,27 @@
-# 👋 Hi there, I'm Michael Minot (Nexspro) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hey+there!+I'm+Michael+Minot+%F0%9F%91%8B;Aspiring+Full+Stack+Web+Developer;Passionate+about+Web+Development+%F0%9F%92%BB;Currently+learning+at+Le+Wagon+%F0%9F%8E%93" />
+</p>
 
-🚀 **Aspiring Full Stack Web Developer | JavaScript & Ruby on Rails | Open-Source Enthusiast**  
+<p align="center">
+  <a href="https://github.com/nexspro">
+    <img src="https://img.shields.io/github/followers/nexspro?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nexspro/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nexspro@ik.me">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"/>
+  </a>
+</p>
 
-🌍 Passionate about building modern and user-friendly web applications using **HTML, CSS, JavaScript, Ruby on Rails, and PostgreSQL**. Currently **in training at Le Wagon bootcamp**, learning best coding practices and working on full-stack projects.
+---
+
+## 🔥 About Me
+- 🎓 **Currently training at Le Wagon Bootcamp** to become a **Full Stack Web Developer**.
+- 💡 Passionate about **building modern & scalable web applications**.
+- 🛠 Tech enthusiast exploring **JavaScript, Ruby on Rails, and PostgreSQL**.
+- 🌍 Active in **tech communities & open-source contributions**.
+- 🚀 **Looking for opportunities to collaborate on web projects**.
 
 ---
 
