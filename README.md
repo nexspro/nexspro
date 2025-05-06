@@ -4,18 +4,18 @@
 
 ---
 
-## 🔥 About Me
-- 🎓 Graduated from **Le Wagon Full Stack Web Development Bootcamp** with official certification.
-- 💡 Passionate about building **modern, user-centric web applications**.
-- 🧠 Continuously learning and working with tools like **Next.js**, **Tailwind CSS**, and **Ruby on Rails**.
-- 💼 Actively looking for a **junior-level or higher** position in web development.
-- 🚀 Highly motivated to join dynamic tech teams and contribute to real-world projects.
+##  About Me
+-  Graduated from **Le Wagon Full Stack Web Development Bootcamp** with official certification.
+-  Passionate about building **modern, user-centric web applications**.
+-  Continuously learning and working with tools like **Next.js**, **Tailwind CSS**, and **Ruby on Rails**.
+-  Actively looking for a **junior-level or higher** position in web development.
+-  Highly motivated to join dynamic tech teams and contribute to real-world projects.
 
 ---
 
-## 🧰 Tech Stack & Tools  
+##  Tech Stack & Tools  
 
-### 🖥 Frontend  
+###  Frontend  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
@@ -25,19 +25,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS"/>
 </p>
 
-### 🛠 Backend  
+###  Backend  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="Ruby on Rails"/>
 </p>
 
-### 🗄 Databases  
+###  Databases  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
 </p>
 
-### 🔧 Tools & Deployment  
+###  Tools & Deployment  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
@@ -46,7 +46,7 @@
 
 ---
 
-## 🚀 Projects  
+##  Projects  
 <p align="center">
   <a href="https://nexspro.github.io/profile/">
     <img src="https://img.shields.io/badge/Profile Page-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Profile Page"/>
@@ -62,25 +62,30 @@
 
 ---
 
-## 🎯 What I'm Currently Working On  
+##  What I'm Currently Working On
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nexspro&repo=nexspro_website&theme=radical" alt="nexspro_website Repo"/>
 </p>
 
-- 🧱 **nexspro_website**  my personal full-stack portfolio project:
-  - 💻 **Backend**: Ruby on Rails  
-  - 🌐 **Frontend**: Next.js + Tailwind CSS  
-  - 🧭 Purpose: A central hub for everything I do, including:
-    - 💼 My portfolio & projects  
-    - 📚 My developer library  
-    - 📺 Live streaming experiments  
-    - 🔗 All my social profiles & links  
-- ✨ Designed to reflect both **my skills** and **my personality** as a modern web developer
-- 🚀 Built to grow and scale with new features over time
+<p align="center">
+  <strong>nexspro_website</strong> my personal full-stack portfolio project<br><br>
+  🔧 <strong>Backend</strong>: Ruby on Rails<br>
+  💻 <strong>Frontend</strong>: Next.js + Tailwind CSS<br><br>
+  🎯 <strong>Purpose</strong>: A central hub for everything I do, including:<br>
+  📁 My portfolio & projects<br>
+  📚 My developer library<br>
+  📺 Live streaming experiments<br>
+  🔗 All my social profiles & links<br><br>
+  ✨ Designed to reflect both my <strong>skills</strong> and <strong>personality</strong> as a modern web developer<br>
+  🚀 Built to grow and scale with new features over time
+</p>
+
 
 ---
 
-## 🌍 Let's Connect!  
+##  Let's Connect!
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nexspro/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -93,5 +98,9 @@
   </a>
 </p>
 
+<div align="center">
 
-💡 *Open to full-time opportunities junior or above. Let’s build something great together!*
+🔑 *Open to full-time opportunities junior or above. Let’s build something great together!*
+
+</div>
+
