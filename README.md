@@ -68,20 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nexspro&repo=nexspro_website&theme=radical" alt="nexspro_website Repo"/>
 </p>
 
-<p align="center">
-  <strong>nexspro_website</strong> my personal full-stack portfolio project<br><br>
-  🔧 <strong>Backend</strong>: Ruby on Rails<br>
-  💻 <strong>Frontend</strong>: Next.js + Tailwind CSS<br><br>
-  🎯 <strong>Purpose</strong>: A central hub for everything I do, including:<br>
-  📁 My portfolio & projects<br>
-  📚 My developer library<br>
-  📺 Live streaming experiments<br>
-  🔗 All my social profiles & links<br><br>
-  ✨ Designed to reflect both my <strong>skills</strong> and <strong>personality</strong> as a modern web developer<br>
-  🚀 Built to grow and scale with new features over time
-</p>
-
-
 ---
 
 ##  Let's Connect!
