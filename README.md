@@ -4,65 +4,73 @@
 
 ---
 
-##  About Me
--  Graduated from **Le Wagon Full Stack Web Development Bootcamp** with official certification.
--  Passionate about building **modern, user-centric web applications**.
--  Continuously learning and working with tools like **Next.js**, **Tailwind CSS**, and **Ruby on Rails**.
--  Actively looking for a **junior-level or higher** position in web development.
--  Highly motivated to join dynamic tech teams and contribute to real-world projects.
+## 👨‍💻 About Me
+
+- 🎓 Graduated from **Le Wagon Full Stack Web Development Bootcamp** with official certification.  
+- 🚀 Passionate about building **modern, user-centric web applications**.  
+- 🧠 Continuously learning and working with tools like **Next.js**, **Tailwind CSS**, **React.js**, **Vue.js**, and **Ruby on Rails**.  
+- 💼 Actively looking for **junior-level or higher** full-time positions in web development.  
+- 🤝 Highly motivated to join dynamic tech teams and contribute to real-world projects.  
 
 ---
 
-##  Tech Stack & Tools  
+## 💼 Tech Stack & Tools  
 
-###  Frontend  
+### 🖥️ Frontend  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS"/>
 </p>
 
-###  Backend  
+### 🎨 UI Frameworks  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS"/>
+</p>
+
+### 🔧 Backend  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="Ruby on Rails"/>
 </p>
 
-###  Databases  
+### 🗄️ Databases  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
 </p>
 
-###  Tools & Deployment  
+### 🧪 Testing & QA  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/rspec/rspec.png" height="40" alt="RSpec"/>
+</p>
+
+### 🧰 Tools & Productivity  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion"/>
+</p>
+
+### ☁️ Hosting, DevOps & Infrastructure  
+<p align="left">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/OVHcloud-123F6D?style=for-the-badge&logo=ovh&logoColor=white" alt="OVHcloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Heroku"/>
 </p>
 
----
-
-##  Projects  
-<p align="center">
-  <a href="https://nexspro.github.io/profile/">
-    <img src="https://img.shields.io/badge/Profile Page-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Profile Page"/>
-  </a><br>
-  <a href="https://nexspro.github.io/landing/">
-    <img src="https://img.shields.io/badge/Landing Page-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Landing Page"/>
-  </a><br>
-  <a href="https://github.com/nexspro/nexspro_website">
-    <img src="https://img.shields.io/badge/nexspro_website-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="nexspro_website"/>
-  </a>
-</p>
-
 
 ---
 
-##  What I'm Currently Working On
+## 🔧 What I'm Currently Working On
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nexspro&repo=nexspro_website&theme=radical" alt="nexspro_website Repo"/>
@@ -70,7 +78,7 @@
 
 ---
 
-##  Let's Connect!
+## 🌐 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nexspro/">
@@ -86,7 +94,8 @@
 
 <div align="center">
 
-🔑 *Open to full-time opportunities junior or above. Let’s build something great together!*
+🔑 *Open to full-time opportunities — junior or above. Let’s build something great together!*
 
 </div>
+
 
