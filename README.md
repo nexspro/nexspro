@@ -15,18 +15,10 @@
   and to create my own answer when the one that seems obvious isn’t enough.
 </p>
 
-<br>
-
-<h3 align="center">Ideas that I’ve decided to put into practice.</h3>
-
-<br>
+<br><br>
 
 <p align="center">
-<a href="https://github.com/nexsura/nexspro"><img src="./assets/nexspro.png" alt="NEXSPRO" width="46%"></a>
-<a href="https://github.com/nexsura/Vitalynq"><img src="./assets/vitalynq.png" alt="Vitalynq" width="46%"></a>
+  <strong>Ideas I decided to bring to life.</strong>
 </p>
 
-<p align="center">
-<a href="https://github.com/nexsura/Voxrune"><img src="./assets/voxrune.png" alt="Voxrune" width="46%"></a>
-<a href="https://github.com/nexsura/arenvio"><img src="./assets/arenvio.png" alt="Arenvio" width="46%"></a>
-</p>
+<br>
